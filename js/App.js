@@ -2,6 +2,7 @@ import React from 'react'
 import Nav from 'react-bootstrap/lib/Nav'
 import NavItem from 'react-bootstrap/lib/NavItem'
 import logoUrl from './logo.png'
+console.log
 var App = React.createClass({
     getInitialState() {
         return {
